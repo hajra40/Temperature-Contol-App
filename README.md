@@ -1,3 +1,14 @@
+# Temperature-Control-App
+
+
+# How to run?
+1. git clone https://github.com/hajra40/Temperature-Contol-App.git
+2. cd Temperature-Control-App
+3. npm install
+4. npm run
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
